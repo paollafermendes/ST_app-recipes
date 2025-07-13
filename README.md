@@ -43,6 +43,6 @@ Um projeto simples feito com **HTML**, **CSS** e **JavaScript**, que permite bus
    git clone https://github.com/seu-usuario/seu-repositorio.git
 
 ## 🎓 Fonte de Aprendizado
-Este projeto foi desenvolvido com base no vídeo Build A Recipe App With JavaScript, do canal Dev Ed, no YouTube.
+Este projeto foi desenvolvido com base no vídeo [Build A Recipe App With JavaScript](https://www.youtube.com/watch?v=r6L0UW1YZ2w&list=WL&index=99), do canal Dev Ed, no YouTube.
 
 O projeto foi utilizado para fins de aprendizado, com adaptações e melhorias feitas ao longo do processo para reforçar os conhecimentos em HTML, CSS e JavaScript.
