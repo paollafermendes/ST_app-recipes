@@ -21,6 +21,21 @@ Um projeto simples feito com **HTML**, **CSS** e **JavaScript**, que permite bus
 - JavaScript 
 - [TheMealDB API](https://www.themealdb.com/) 
 
+## Preview do Site
+
+### 1. Tela inicial para pesquisa
+
+![Tela Inicial](img/preview1.png)
+
+### 2. Receita sendo pesquisada
+
+![Receita Pesquisada](img/preview2.png)
+
+### 3. Informações detalhadas da receita
+
+![Informações da Receita](img/preview3.png)
+
+
 ## 🚀 Como Usar
 
 1. Clone o repositório:
